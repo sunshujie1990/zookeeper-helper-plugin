@@ -1,7 +1,7 @@
-package org.jetbrains.plugins.template.services
+package com.github.sunshujie1990.zookeeperhelperplugin.services
 
 import com.intellij.openapi.project.Project
-import org.jetbrains.plugins.template.MyBundle
+import com.github.sunshujie1990.zookeeperhelperplugin.MyBundle
 
 class MyProjectService(project: Project) {
 
